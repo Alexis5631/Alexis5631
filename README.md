@@ -4,4 +4,4 @@
 <hr>
 
 # 💫 About Me:
-🤓 Apasionado a la computacion<br>📍 Colombiano<br>.
+🤓 Apasionado a la computacion<br>📍 Colombiano<br>
