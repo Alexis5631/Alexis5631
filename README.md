@@ -4,4 +4,4 @@
 <hr>
 
 # 💫 About Me:
-🤓 Apasionado a la computacion<br>📍 Colombiano<br>📚 Tecnologo en desarrollo de sistemas informáticos<br>.
+🤓 Apasionado a la computacion<br>📍 Colombiano<br>.
